@@ -1,0 +1,3 @@
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Domain\bin\Debug\netstandard2.0\Kakashi.Domain.deps.json
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Domain\obj\Debug\netstandard2.0\Kakashi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Domain\obj\Debug\netstandard2.0\Kakashi.Domain.AssemblyInfo.cs

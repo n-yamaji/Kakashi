@@ -8,6 +8,9 @@ namespace Kakashi.Domain.Tests
         [TestMethod]
         public void TestMethod1()
         {
+            var 術者 = 術者.登場("カカシ");
+
+            Assert.IsTrue(術者.名前 == "カカシ");
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\bin\Debug\netcoreapp2.0\Kakashi.Web.deps.json
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\bin\Debug\netcoreapp2.0\Kakashi.Web.runtimeconfig.json
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\bin\Debug\netcoreapp2.0\Kakashi.Web.runtimeconfig.dev.json
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\bin\Debug\netcoreapp2.0\Kakashi.Web.dll
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\bin\Debug\netcoreapp2.0\Kakashi.Web.pdb
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\obj\Debug\netcoreapp2.0\Kakashi.Web.csproj.CoreCompileInputs.cache
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\obj\Debug\netcoreapp2.0\Kakashi.Web.AssemblyInfo.cs
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\obj\Debug\netcoreapp2.0\Kakashi.Web.dll
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\obj\Debug\netcoreapp2.0\Kakashi.Web.pdb
