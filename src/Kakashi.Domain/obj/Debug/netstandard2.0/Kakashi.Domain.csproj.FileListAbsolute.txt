@@ -1,3 +1,7 @@
 C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Domain\bin\Debug\netstandard2.0\Kakashi.Domain.deps.json
 C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Domain\obj\Debug\netstandard2.0\Kakashi.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Domain\obj\Debug\netstandard2.0\Kakashi.Domain.AssemblyInfo.cs
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Domain\bin\Debug\netstandard2.0\Kakashi.Domain.dll
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Domain\bin\Debug\netstandard2.0\Kakashi.Domain.pdb
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Domain\obj\Debug\netstandard2.0\Kakashi.Domain.dll
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Domain\obj\Debug\netstandard2.0\Kakashi.Domain.pdb

@@ -12863,7 +12863,8 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0-preview1-002111-00"
+            "version": "2.0.0-preview1-002111-00",
+            "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {
             "target": "Package",

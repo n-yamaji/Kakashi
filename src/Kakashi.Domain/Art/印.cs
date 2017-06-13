@@ -1,7 +1,17 @@
 namespace Kakashi.Domain.Art
 {
-    class 印
+    public class 印
     {
-        public string 印 { get; private set; }        
-    }    
+        private string value;
+
+        private 印(string 印)
+        {
+            value = 印;
+        }
+
+        public static 印 組む(string 印)
+        {
+            return new 印(印);
+        }
+    }
 }

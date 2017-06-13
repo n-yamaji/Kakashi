@@ -8,9 +8,9 @@ namespace Kakashi.Domain.Art
 
         private 術(術名 術名, 印 印, 術者 術者)
         {
-            術名 = 術名;
-            印 =印;
-            術者 = 術者;
+            this.術名 = 術名;
+            this.印 =印;
+            this.術者 = 術者;
         }
 
         public static 術 新術(術名 術名, 印 印, 術者 術者) 

@@ -11,13 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Kakashi.Web")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Kakashi.Domain.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Kakashi.Web")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Kakashi.Web")]
+[assembly: System.Reflection.AssemblyProductAttribute("Kakashi.Domain.Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Kakashi.Domain.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment クラスによって生成されました。

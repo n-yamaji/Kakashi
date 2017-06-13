@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.0": {
       "Kakashi.Domain.Tests/1.0.0": {
         "dependencies": {
+          "Kakashi.Domain": "1.0.0",
           "MSTest.TestAdapter": "1.1.17",
           "MSTest.TestFramework": "1.1.17",
           "Microsoft.NET.Test.Sdk": "15.3.0-preview-20170427-09"
@@ -1031,6 +1032,11 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Kakashi.Domain/1.0.0": {
+        "runtime": {
+          "Kakashi.Domain.dll": {}
+        }
       }
     }
   },
@@ -1550,6 +1556,11 @@
       "sha512": "sha512-T9VFaR3ey0OE3TYZNBBLZhV783WptTCDUS2G4KY1iSf+0Fu3sMh3aMroLA+PxOtA+9PtgLuoxOmJHYYgt3wQpQ==",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+    },
+    "Kakashi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

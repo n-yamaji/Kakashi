@@ -1,3 +1,5 @@
 C:\Users\Nobuaki\Documents\GitHub\Kakashi\test\Kakashi.Domain.Tests\bin\Debug\netcoreapp2.0\Kakashi.Domain.Tests.deps.json
 C:\Users\Nobuaki\Documents\GitHub\Kakashi\test\Kakashi.Domain.Tests\bin\Debug\netcoreapp2.0\Kakashi.Domain.Tests.runtimeconfig.json
 C:\Users\Nobuaki\Documents\GitHub\Kakashi\test\Kakashi.Domain.Tests\bin\Debug\netcoreapp2.0\Kakashi.Domain.Tests.runtimeconfig.dev.json
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\test\Kakashi.Domain.Tests\obj\Debug\netcoreapp2.0\Kakashi.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\test\Kakashi.Domain.Tests\obj\Debug\netcoreapp2.0\Kakashi.Domain.Tests.AssemblyInfo.cs

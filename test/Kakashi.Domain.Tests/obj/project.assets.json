@@ -5795,22 +5795,22 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
+          "MSTest.TestFramework": {
             "target": "Package",
-            "version": "2.0.0-preview1-002111-00"
-          },
-          "Microsoft.NET.Test.Sdk": {
-            "target": "Package",
-            "version": "15.3.0-preview-20170427-09"
+            "version": "1.1.17"
           },
           "MSTest.TestAdapter": {
             "target": "Package",
             "version": "1.1.17"
           },
-          "MSTest.TestFramework": {
+          "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "1.1.17"
+            "version": "2.0.0-preview1-002111-00",
+            "autoReferenced": true
+          },
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "15.3.0-preview-20170427-09"
           }
         },
         "imports": [
