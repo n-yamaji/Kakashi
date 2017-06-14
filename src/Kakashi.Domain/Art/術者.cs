@@ -23,5 +23,11 @@ namespace Kakashi.Domain.Art
         {
             return new 術者(名前, 使える術);
         }
+
+        public void コピー(術 術)
+        {
+            var まねた術 = 術.新術(術.術名, 術.印);
+            使える術.Add(まねた術);
+        }
     }
 }
