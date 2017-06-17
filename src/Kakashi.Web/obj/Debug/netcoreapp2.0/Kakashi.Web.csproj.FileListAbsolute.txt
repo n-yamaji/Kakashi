@@ -10,3 +10,4 @@ C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\obj\Debug\netcoreapp2.
 C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\obj\Debug\netcoreapp2.0\Kakashi.Web.AssemblyInfo.cs
 C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\obj\Debug\netcoreapp2.0\Kakashi.Web.dll
 C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\obj\Debug\netcoreapp2.0\Kakashi.Web.pdb
+C:\Users\Nobuaki\Documents\GitHub\Kakashi\src\Kakashi.Web\obj\Debug\netcoreapp2.0\Kakashi.Web.csprojResolveAssemblyReference.cache
