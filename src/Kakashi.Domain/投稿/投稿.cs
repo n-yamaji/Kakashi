@@ -19,5 +19,15 @@ namespace Kakashi.Domain.投稿
         {
             return new 投稿(タイトル, 内容);
         }
+
+        public string タイトルを見る()
+        {
+            return タイトル.ToString();
+        }
+
+        public string 内容を見る()
+        {
+            return 内容.ToString();
+        }
     }
 }

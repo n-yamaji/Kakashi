@@ -23,5 +23,10 @@ namespace Kakashi.Domain.投稿
 
             this.value = value;
         }
+
+        public override string ToString()
+        {
+            return value;
+        }
     }
 }
